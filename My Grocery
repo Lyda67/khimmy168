@@ -1,0 +1,23 @@
+const items = ['Apples', 'Bananas', 'Cherries']; 
+
+ 
+
+function App() { 
+
+ return ( 
+
+   <div> 
+
+     <h1>My Grocery List</h1> 
+
+     {/* Add your List component here */} 
+
+   </div> 
+
+ ); 
+
+} 
+
+ 
+
+export default App; 
